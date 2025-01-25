@@ -19,8 +19,6 @@
 - **[Outro Projeto](link-do-projeto)**: Breve descrição do projeto.
 
 ---
-![Snake animation](https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg)
-## Contato
 
 - 📧 Email: rr.rocha1987@gmail.com
 - 💼 LinkedIn: [Renata Rocha](https://www.linkedin.com/in/seu-linkedin)
