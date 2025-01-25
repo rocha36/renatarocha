@@ -22,7 +22,7 @@
 
 ## Contato
 
-- 📧 Email: (rr.rocha1987@gmail.com)
+- 📧 Email: rr.rocha1987@gmail.com
 - 💼 LinkedIn: [Renata Rocha](https://www.linkedin.com/in/seu-linkedin)
 - 🌐 GitHub: [rocha36](https://github.com/rocha36)
 
